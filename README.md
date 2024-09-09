@@ -1,20 +1,27 @@
 <h1 align="center">Hi 👋, I'm Teklu Moges</h1>
 <h3 align="center">A Full Stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=teklumt&label=Profile%20views&color=0e75b6&style=flat" alt="teklumt" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=teklumt&label=Profile%20views&color=0e75b6&style=flat" alt="teklumt" />
+</p>
 
 - 📫 How to reach me **teklumo.jembere@gmail.com**
-<div>
-  <div  align="left">
-    
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/teklumo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/teklumo" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/teklumt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/teklumt/" height="30" width="40" /></a>
-</p>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1;" align="left">
+    <h3 align="left">Connect with me:</h3>
+    <p align="left">
+      <a href="https://codeforces.com/profile/https://codeforces.com/profile/teklumo" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/teklumo" height="30" width="40" />
+      </a>
+      <a href="https://www.leetcode.com/https://leetcode.com/u/teklumt/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/teklumt/" height="30" width="40" />
+      </a>
+    </p>
   </div>
-  <div  align="right">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/d127d2162849109.63dd3b89646f5.gif" alt="teklumt" />
+
+  <div style="flex: 1;" align="right">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/d127d2162849109.63dd3b89646f5.gif" alt="teklumt" style="max-width: 100%; height: auto;" />
   </div>
 </div>
 
