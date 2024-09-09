@@ -2,7 +2,8 @@
 <h3 align="center">A Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teklumt&label=Profile%20views&color=0e75b6&style=flat" alt="teklumt" /> </p>
-<img align="right" width=250px height=200px alt="side_sticker" src="https://github.com/user-attachments/assets/b7a584cf-e574-4413-b2f9-21ceed2139af" />
+<img align="right" width=250px height=200px alt="side_sticker" src="https://github.com/user-attachments/assets/3c7590f1-f4dc-48e0-a950-3d88f62c997a" />
+
 
 
 - 📫 How to reach me **teklumo.jembere@gmail.com**
