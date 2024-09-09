@@ -21,7 +21,7 @@
   </div>
 
   <div style="flex: 1;" align="right">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/d127d2162849109.63dd3b89646f5.gif" alt="teklumt" style="max-width: 100%; height: auto;" />
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/d127d2162849109.63dd3b89646f5.gif" alt="teklumt"  height="30" width="40" style="max-width: 100%; height: auto;" />
   </div>
 </div>
 
