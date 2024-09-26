@@ -5,7 +5,7 @@
 
 
 
-- 📫 How to reach me **teklumo.jembere@gmail.com**
+- 📫 How to reach me **teklumogesjembere@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
