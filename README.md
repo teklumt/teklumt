@@ -9,7 +9,16 @@
 - 📫 How to reach me **teklumo.jembere@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://linkedin.com/in/teklu-moges/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a><a href="https://instagram.com/tsemadre" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a><a href="https://codeforces.com/profile/teklumo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a><a href="https://leetcode.com/u/teklumt/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a></p>
+
+<table>
+  <tr>
+    <td align="center"><a href="https://linkedin.com/in/teklu-moges/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></td>
+    <td align="center">  <a href="https://instagram.com/tsemadre" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a></td>
+    <td align="center">  <a href="https://codeforces.com/profile/teklumo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a></td>
+    <td align="center">  <a href="https://leetcode.com/u/teklumt/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a></td>
+  </tr>
+
+  </table>
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
