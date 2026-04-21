@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working on **Distributed system**
 - 📫 How to reach me **teklumo.jembere@gmail.com**
+- 🌐 Portfolio: https://teklumoges.dev/
 
 <h3 align="left">Connect with me:</h3>
 
